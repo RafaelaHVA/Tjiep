@@ -1,0 +1,16 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "Threat Model 1",
+    "owner": "",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
